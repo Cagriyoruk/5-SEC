@@ -27,3 +27,8 @@ A Web-app that gives the highlights of a video.
 
 # System Design
 ![](https://github.com/Cagriyoruk/5-SEC/blob/master/5-Sec%20System%20Design.png)
+
+# Successfully Trained Models
+Small-Frame / 0.02 accuracy
+48-Frame level Model / 0.66 accuracy
+48- DBOF Model / 0.71 accuracy
