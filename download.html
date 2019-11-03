@@ -1,0 +1,25 @@
+<!doctype html>
+<title>5-sec</title>
+<h2 style="text-align:center"><font size="20" color="red">Download</font></h2>
+<body background="https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-03.jpg">
+<p>
+	{% with messages = get_flashed_messages() %}
+	  {% if messages %}
+		<ul class=flashes>
+		{% for message in messages %}
+		  <li>{{ message }}</li>
+		{% endfor %}
+		</ul>
+	  {% endif %}
+	{% endwith %}
+</p>
+<p align="center">
+  <video width="320" height="240" controls>
+    <source src="{{ url_for('static', filename=filename) }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+<form method="post" style="text-align:center">
+	<input type="submit" value="Download" >
+</form>
+</body>
