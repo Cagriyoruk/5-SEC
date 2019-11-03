@@ -33,4 +33,4 @@ Small-Frame / 0.02 accuracy
 
 48-Frame level Model / 0.66 accuracy
 
-48- DBOF Model / 0.71 accuracy
+48-DBOF Model / 0.71 accuracy
