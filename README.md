@@ -1,5 +1,5 @@
 # 5-SEC
-Product Mission
+# Product Mission
 
 For - Anyone uses social media
 Who - Doesn't want to spend a lot of time searching moments in the video
@@ -8,13 +8,13 @@ That - finds the important part of the videos
 Unlike - GOOGLE
 Our Product - has more functions to edit the videos.
 
-Define Customers
+# Define Customers
 - People use social media.
 - People are interested in videography.
 - People who don't know how to edit videos.
 - Editing Companies that wants to use our feature. 
 
-User Stories
+# User Stories
 - As a User, I want the highlights of my videos so that I can save time.
 - As a User, I want a user-friendly interface so that I can interact easily.
 - As a User, I want to edit my videos so that I don't have to use any other software.
@@ -22,4 +22,4 @@ User Stories
 - As a User, I want my videos  to be categorized so that I can find them easier. 
 - As a User, I want recommendation of filters for my videos based on choice of other users. 
 
-Define MVP - An app that gives the highlights of a video.
+# Define MVP - An app that gives the highlights of a video.
