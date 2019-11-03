@@ -22,4 +22,4 @@ Our Product - has more functions to edit the videos.
 - As a User, I want my videos  to be categorized so that I can find them easier. 
 - As a User, I want recommendation of filters for my videos based on choice of other users. 
 
-# Define MVP - An app that gives the highlights of a video.
+# Define MVP - A Web-app that gives the highlights of a video.
