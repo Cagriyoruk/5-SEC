@@ -33,11 +33,6 @@ The 3rd YouTube-8M Video Understanding Challenge / Temporal localization of topi
 
 Imagine being able to search for the moment in any video where an adorable kitten sneezes, even though the uploader didn’t title or describe the video with such descriptive metadata. Now, apply that same concept to videos that cover important or special events like a baby’s first steps or a game-winning goal -- and now we have the ability to quickly find and share special video moments. This technology is called temporal concept localization within video and Google Research can use your help to advance the state of the art in this area.
 
-
-![](https://3.bp.blogspot.com/-ySER2cMXOpU/XKToiFkVWjI/AAAAAAAAEA8/Z4U7peBMJNQ7LuWDKes4wyJLi_eIJc1_ACLcBGAs/s1600/image5.gif)
-
-An example of the detected action "blowing out candles"
-
 In most web searches, video retrieval and ranking is performed by matching query terms to metadata and other video-level signals. However, we know that videos can contain an array of topics that aren’t always characterized by the uploader, and many of these miss localizations to brief but important moments within the video. Temporal localization can enable applications such as improved video search (including search within video), video summarization and highlight extraction, action moment detection, improved video content safety, and many others.
 
 In previous years, participants worked on advancements in video-level annotations, building both unconstrained and constrained models. In this third challenge based on the YouTube 8M dataset, Kagglers will localize video-level labels to the precise time in the video where the label actually appears, and do this at an unprecedented scale. To put it another way: at what point in the video does the cat sneeze?
