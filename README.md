@@ -174,6 +174,14 @@ Our machine learning model is taking tfrecord files for test, train and validati
       --input_side_packets=input_sequence_example_path=/tmp/mediapipe/features.pb,input_video_path=/absolute/path/to/the/local/video/file,output_video_path=/tmp/mediapipe/annotated_video.mp4,segment_size=5,overlap=4
       
     ```
-## Poster
+## Poster Presentation
 ![0001](https://user-images.githubusercontent.com/55101879/70646288-91d80b00-1c14-11ea-8ee1-c035a0799a17.jpg)
+
+## Annotated Outputs
+Becuase Audio effect the segments, We can see that one of the segments here is piano.
+
+<img width="1127" alt="Audio_effect_annotate" src="https://user-images.githubusercontent.com/55101879/70646445-eb403a00-1c14-11ea-80a2-1cc3840ca57c.png">
+
+<img width="1128" alt="Skateboard_annotate" src="https://user-images.githubusercontent.com/55101879/70646418-dc598780-1c14-11ea-9f04-f4a2b1ba8ecc.png">
+
 
