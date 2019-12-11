@@ -175,7 +175,7 @@ Our machine learning model is taking tfrecord files for test, train and validati
       
     ```
 ## Poster Presentation
-![0001](https://user-images.githubusercontent.com/55101879/70646288-91d80b00-1c14-11ea-8ee1-c035a0799a17.jpg)
+![0001](https://user-images.githubusercontent.com/55101879/70647862-e466f680-1c17-11ea-89cc-d3111fe76136.jpg)
 
 ## Annotated Outputs
 Becuase Audio effect the segments, We can see that one of the segments here is piano.
