@@ -172,4 +172,8 @@ Our machine learning model is taking tfrecord files for test, train and validati
     GLOG_logtostderr=1 bazel-bin/mediapipe/examples/desktop/youtube8m/model_inference \
       --calculator_graph_config_file=mediapipe/graphs/youtube8m/local_video_model_inference.pbtxt \
       --input_side_packets=input_sequence_example_path=/tmp/mediapipe/features.pb,input_video_path=/absolute/path/to/the/local/video/file,output_video_path=/tmp/mediapipe/annotated_video.mp4,segment_size=5,overlap=4
+      
     ```
+## Poster
+![0001](https://user-images.githubusercontent.com/55101879/70646288-91d80b00-1c14-11ea-8ee1-c035a0799a17.jpg)
+
